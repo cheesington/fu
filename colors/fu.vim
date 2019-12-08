@@ -40,8 +40,8 @@ hi Normal         ctermfg=252   ctermbg=234                  guifg=#d0d0d0  guib
 hi CursorColumn                 ctermbg=238                                 guibg=#444444
 hi Cursor                       ctermbg=214                                 guibg=#ffaf00
 hi CursorLine                   ctermbg=238                                 guibg=#444444
-hi FoldColumn     ctermfg=248   ctermbg=bg                   guifg=#a8a8a8  guibg=#000000
-hi Folded         ctermfg=255   ctermbg=60                   guifg=#eeeeee  guibg=#5f5f87
+hi FoldColumn     ctermfg=248   ctermbg=NONE                   guifg=#a8a8a8  guibg=NONE
+hi Folded         ctermfg=255   ctermbg=NONE                   guifg=#eeeeee  guibg=NONE
 hi IncSearch      ctermfg=0     ctermbg=223                  guifg=#000000  guibg=#ffd7af
 hi NonText        ctermfg=248   ctermbg=233   cterm=bold     guifg=#a8a8a8  guibg=#121212
 hi Search         ctermfg=0     ctermbg=149                  guifg=#000000  guibg=#afd75f
