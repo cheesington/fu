@@ -47,8 +47,8 @@ hi NonText        ctermfg=248   ctermbg=233   cterm=bold     guifg=#a8a8a8  guib
 hi Search         ctermfg=0     ctermbg=149                  guifg=#000000  guibg=#afd75f
 hi SignColumn     ctermfg=248                                guifg=#a8a8a8
 hi SpecialKey     ctermfg=77                                 guifg=#5fd75f
-hi StatusLine     ctermfg=232   ctermbg=255                  guifg=#080808  guibg=#eeeeee
-hi StatusLineNC   ctermfg=237   ctermbg=253                  guifg=#3a3a3a  guibg=#dadada
+hi StatusLine     ctermfg=232   ctermbg=255                  guifg=#dddddd  guibg=#666666
+hi StatusLineNC   ctermfg=237   ctermbg=253                  guifg=#bbbbbb  guibg=#333333
 hi TabLine        ctermfg=253   ctermbg=237                  guifg=#dadada  guibg=#3a3a3a
 hi TabLineFill    ctermfg=0     ctermbg=0                    guifg=#000000  guibg=#000000
 hi TabLineSel     ctermfg=255   ctermbg=33                   guifg=#eeeeee  guibg=#0087ff
